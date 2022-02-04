@@ -1,2 +1,2 @@
-# data_science_projects
+# Data science projects
  Here are the projects I made
